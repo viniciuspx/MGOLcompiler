@@ -1,0 +1,16 @@
+
+{
+	"inicio" : ["inicio",null],
+	"varinicio" : ["varinicio",null],
+	"varfim" : ["varfim",null],
+	"escreva" : ["escreva",null],
+	"leia" : ["leia",null],
+	"se" : ["se",null],
+	"entao" : ["entao",null],
+	"senao" : ["senao",null],
+	"fimse" : ["fimse",null],
+	"fim" : ["fim",null],
+	"inteiro" : ["inteiro",null],
+	"literal" : ["literal",null],
+	"real" : ["real",null]
+}
